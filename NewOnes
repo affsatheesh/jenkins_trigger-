@@ -1,0 +1,7 @@
+public class NewOne
+{
+public static void main(String[] arg)
+{
+System.out.println("it is first progarm");
+}
+}
